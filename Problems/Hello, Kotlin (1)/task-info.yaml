@@ -1,0 +1,16 @@
+type: code
+custom_name: Hello, Kotlin
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    fun main(args: Array<String>) {
+        print("Hello, ")
+        print("world")
+        print(" and ")
+        print("Kotlin")
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4413
+status: Solved
+record: -1
